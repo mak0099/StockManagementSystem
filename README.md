@@ -1,3 +1,1 @@
-# eComApi
-# StockManagementSystem
 # StockManagementSystem
